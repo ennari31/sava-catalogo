@@ -1,0 +1,15 @@
+# Datos privados (precios, stock) y script de Google: quedan solo en la computadora
+catalogo_sava_productos.csv
+Codigo.gs
+*.gs
+*.xlsx
+
+# Claves y credenciales
+.env
+.env.*
+credentials*.json
+
+# Basura del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
